@@ -1,0 +1,8 @@
+# Рантайм сервиса: HTTP + OpenCV (headless: без GUI-зависимостей).
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.20
+opencv-python-headless==4.10.0.84
+numpy==2.1.3
+pydantic==2.10.4
+pydantic-settings==2.7.0

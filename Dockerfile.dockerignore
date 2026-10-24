@@ -1,0 +1,11 @@
+# Контекст сборки — каталог сервиса: в образ нужны только исходники и зависимости.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+tests/
+README.md
+pyproject.toml
+requirements-dev.txt
+Dockerfile.dockerignore
